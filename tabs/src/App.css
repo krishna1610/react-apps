@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+.button-body{
+  display: flex;
+}
+
+.button-style{
+  margin: 10px;
+}
+
+.active-btn{
+  background-color: blue;
+  color: aliceblue;
+}
