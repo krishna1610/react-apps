@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  border: 1px solid black;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.job-box{
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.w3-container{
+  background-color: green;
+}
+
+.w3-light-grey{
+  background-color:lightblue;
+  width: 100%;
+  height: 20px;
+}
+
+.li-style{
+  list-style: none;
+}
+
+.ul-style{
+  padding: 0px;
+}
+
+.style-open-link{
+  cursor: pointer;
+
+}
+
+.style-open-link:hover{
+  text-decoration: underline;
+}
