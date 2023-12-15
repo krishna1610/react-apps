@@ -1,0 +1,22 @@
+.days-name{
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+
+.calender-view{
+    width: 716px;
+    border: 1px solid black;
+    text-align: center;
+}
+.day-item{
+    width: 100px;
+    border: 1px solid red;
+}
+.date-item{
+    width: 100px;
+    border: 1px solid green;
+}
+.selected-date{
+    background-color: yellow;
+}
